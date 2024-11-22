@@ -49,7 +49,7 @@ topology:
     - endpoints: ["rtrD:eth3", "rtrC:eth2"]
 
     - endpoints: ["lan2:eth1", "rtrD:eth1"]
-
+    - endpoints: ["rtrB:eth3", "rtrC:eth3"]
 
 
 
